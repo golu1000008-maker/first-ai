@@ -1,0 +1,5 @@
+node_modules/
+.env
+chatapp.db
+chatapp.db-shm
+chatapp.db-wal
